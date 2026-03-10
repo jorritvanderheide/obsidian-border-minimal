@@ -1,7 +1,7 @@
 {
-	"name": "Border",
-	"version": "1.13.2",
-	"minAppVersion": "0.16.0",
-	"author": "Akifyss",
-	"authorUrl": "https://github.com/Akifyss"
+  "name": "Border Minimal",
+  "version": "1.0.0",
+  "minAppVersion": "0.16.0",
+  "author": "Jorrit van der Heide",
+  "authorUrl": "https://github.com/jorritvanderheide"
 }
